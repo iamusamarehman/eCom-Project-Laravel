@@ -43,7 +43,15 @@ class ProductSeeder extends Seeder
                 "description"=>"A fridge with much more feature",
                 "category"=>"fridge",
                 "gallery"=>"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFx-2-wTOcfr5at01ojZWduXEm5cZ-sRYPJA&usqp=CAU"
+            ],
+               [
+                'name'=>'LG tv',
+                "price"=>"2005",
+                "description"=>"A tv with much more feature",
+                "category"=>"tv",
+                "gallery"=>"https://4.imimg.com/data4/PM/KH/MY-34794816/lcd-500x500.png"
              ]
+
         ]);
     }
 }

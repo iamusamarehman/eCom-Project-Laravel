@@ -25,6 +25,47 @@
     height:820px;
     padding-top:100px;
 }
+
+img.slider-img{
+
+    height:400px !important;
+
+    
+}
+.custom-product{
+    height:820px;
+    padding-top:100px;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 20px;
+    width: 20px;
+    outline: black;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+.slider-text{
+
+    background-color:#35443585 !important; 
+}
+.trending-img
+{
+height:100px;
+
+}
+.trending-item{
+
+    float: left;
+    width:20%;
+}
+.trending-wrapper{
+
+    margin:30px;
+}
+.
 </style>
 
 </html>
