@@ -20,6 +20,11 @@
     @yield('content')
      {{View::make('footer ')}}
 </body>
-
+<style> 
+.custom-login{
+    height:820px;
+    padding-top:100px;
+}
+</style>
 
 </html>
