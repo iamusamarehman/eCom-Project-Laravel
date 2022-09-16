@@ -34,7 +34,7 @@ if(Session::has('user'))
 </ul> 
  <ul class="nav navbar-nav navbar-right">
   <ul>
-  <li><a href="">cart {{$total}} </a>  </li>
+  <li><a href="/cartlist ">cart {{$total}} </a>  </li>
  
 </ul>
 <ul>

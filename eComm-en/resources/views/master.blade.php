@@ -53,14 +53,20 @@ img.slider-img{
 }
 .trending-img
 {
-height:100px;
+ height: 100px;
 
 }
 .trending-item{
 
-    float: left;
-    width:20%;
+   float: left;
+        width: 20%;
 }
+
+ .trending-image{
+        height: 100px;
+    }
+
+
 .trending-wrapper{
 
     margin:30px;
@@ -68,8 +74,17 @@ height:100px;
 .detail-img{
 
 
-    height:200px;
+   height: 200px;
 }
+
+ .cart-list-devider{
+        border-bottom: 1px solid #ccc;
+        margin-bottom: 20px;
+        padding-bottom: 20px
+    }
+    .hello{
+        position:absolute; bottom:-50%; height:50px; left:0px; right:0px; overflow:hidden;
+    }
 </style>
 
 </html>
